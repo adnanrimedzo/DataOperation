@@ -1,4 +1,4 @@
-# Case study project for Sentiance
+# Data Operation with UI 
 
 This project implemented for data operations on disk.
 Application does three things.
